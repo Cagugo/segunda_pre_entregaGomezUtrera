@@ -1,0 +1,8 @@
+setup.py
+shopping_page/__init__.py
+shopping_page/customer.py
+shopping_page.egg-info/PKG-INFO
+shopping_page.egg-info/SOURCES.txt
+shopping_page.egg-info/dependency_links.txt
+shopping_page.egg-info/entry_points.txt
+shopping_page.egg-info/top_level.txt

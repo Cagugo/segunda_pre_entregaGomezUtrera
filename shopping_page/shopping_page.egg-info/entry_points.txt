@@ -1,0 +1,2 @@
+[console_scripts]
+shopping_page = shopping_page.main:main
